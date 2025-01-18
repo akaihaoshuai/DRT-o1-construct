@@ -1,0 +1,23 @@
+[
+    {
+        "sentence": "Women were weeping and children crying, and all were going as fast as seemingly lay in their power, looking behind now and then as if pursued by some deadly enemy.",
+        "translations_result": [
+            {
+                "translation": "妇女们在哭泣，孩子们在哭喊，所有人都尽可能快的离开，偶尔向后看，仿佛被一些致命的敌人追赶。建议：无。",
+                "feedback": "The translation is quite accurate and captures the essence of the original sentence appropriately. The only suggestion would be to replace \"建议：无\" with \"无建议\" for a more natural sounding sentence in Mandarin. So it would be: \"妇女们在哭泣，孩子们在哭喊，所有人都尽可能快的离开，偶尔向后看，仿佛被一些致命的敌人追赶。无建议。\"",
+                "score": 95
+            },
+            {
+                "translation": "女性们在哭泣，孩子们在尖叫，所有的人都在尽他们可能的速度快速离开，偶尔回头看，好像被一些致命的敌人追赶。无建议。",
+                "feedback": "The translation is quite accurate and maintains the dramatic tone of the original English sentence. However, the phrase \"无建议\" at the end is not part of the original sentence and it seems like a misplaced comment from the translator. Therefore, the corrected translation should be: \"女性们在哭泣，孩子们在尖叫，所有的人都在尽他们可能的速度快速离开，偶尔回头看，好像被一些致命的敌人追赶。\"",
+                "score": 95
+            },
+            {
+                "translation": "\"女性们在哭泣，孩子们在尖叫，所有的人都在尽他们可能的速度快速离开，偶尔回头看，好像被一些致命的敌人追赶。\"",
+                "feedback": "The translation is very accurate and captures the essence of the original sentence. It is well done. However, the phrase \"尽他们可能的速度快速离开\" could be slightly improved. The original sentence \"going as fast as seemingly lay in their power\" implies that they were moving as fast as they could, but it doesn't necessarily imply they were leaving. So, it might be better to translate it as \"尽他们可能的速度快速移动\". Additionally, \"女性们在哭泣，孩子们在尖叫\" might sound more natural if translated as \"女性们哭泣着，孩子们尖叫着\". So, the improved translation could be: \"女性们哭泣着，孩子们尖叫着，所有的人都在尽他们可能的速度快速移动，偶尔回头看，好像被一些致命的敌人追赶。\"",
+                "score": 95
+            }
+        ],
+        "long_thought": "In the reflection of the translations, women were depicted as sobbing, children wailing, with everyone fleeing as swiftly as they could. They occasionally glanced back, as though being chased by a lethal adversary. The translations were largely accurate, capturing the essence of the original sentence effectively. However, suggestions were made to improve the natural flow and accuracy of the translations. These included revising the phrasing to better convey that they were moving rather than leaving, and to describe the women and children's actions in a more natural manner."
+    }
+]
